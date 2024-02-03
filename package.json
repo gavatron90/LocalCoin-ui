@@ -152,7 +152,7 @@
     "lodash-es": "^4.17.21",
     "lzma": "2.1.6",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.16",
+    "moment-timezone": "^0.5.44",
     "node-rsa": "^0.4.2",
     "notifyjs": "^3.0.0",
     "numeral": "2.0.4",
